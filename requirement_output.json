@@ -1,0 +1,39 @@
+{
+  "lot1": {
+    "projectValue": "N/A",
+    "scopeOfServices": "The consulting firm will assist in various areas including the implementation of a 24/7 Security Operations Center (SOC) for cybersecurity, development of cyber policies aligned with ISO 27001, conducting gap assessments of current security monitoring capabilities, end-to-end automation of customer engagement for B2C product lines including CRM implementation, contact center integration, mobile app deployment, advisory on plastic waste management and registration under CPCB/SPCB guidelines for FMCG packaging units, review and rollout of HR IT systems including modules for global workforce, performance tracking, and talent review, and delivering feasibility studies for national identification systems or public infrastructure planning.",
+    "countryOfWork": "N/A",
+    "domain": "Consulting",
+    "sector": {
+      "mainSector": "Consulting",
+      "umbrellaSectors": [
+        "Cybersecurity",
+        "Digital Transformation",
+        "Environmental Compliance",
+        "HR Technology",
+        "Public Sector",
+        "Market Infrastructure"
+      ]
+    },
+    "tags": [
+      "Technology Consulting",
+      "Consulting",
+      "Global",
+      "N/A",
+      "N/A",
+      "N/A"
+    ],
+    "requirements": [
+      {
+        "req": 1,
+        "requirementDetail": "The vendor must demonstrate successful delivery of similar projects across at least three domains.",
+        "status": "Not approved"
+      },
+      {
+        "req": 2,
+        "requirementDetail": "Supporting credentials and client references must be provided.",
+        "status": "Not approved"
+      }
+    ]
+  }
+}
